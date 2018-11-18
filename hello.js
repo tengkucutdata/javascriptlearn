@@ -1,2 +1,2 @@
-//hello belajar java
+//hello belajar javascript
 //hello lagi
